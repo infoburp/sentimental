@@ -1,0 +1,4 @@
+sentimental
+===========
+
+sentiment analysis tool
